@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="fonts/css/all.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="logo">
+            <a href="#"><img src="images/Medicare-logo.png.crdownload" alt="Medical" /></a>
+        </div>
+        <div class="menu">
+            <ul>
+            <li><a href="#">Home</a></li>
+            <li class="we">
+                <a href="#" >About us</a>
+                <div class="content1 abc">
+                    <a class="#">Genral Information</a>
+                    <a class="#">Team</a>
+                    <a class="#">Doctors profile</a>
+                    <a class="#">Galleries</a>
+                    <a class="#">Working hours</a>
+                    <a class="#">Appointment</a>
+                    <a class="#">Contact us</a>
+                </div>
+            </li>
+            <li class="we">
+                <a href="#">Service</a>
+                <div class="content2 abc">
+                    <a class="#">Heart Surgery</a>
+                    <a class="#">Heart Transplant</a>
+                    <a class="#">valve disease</a>
+                    <a class="#">valve proplase</a>
+                    <a class="#">Artery angioplasty</a>
+                    <a class="#">pacemeaker</a>
+                </div>
+            </li>
+            <li class="we">
+                <a href="#">Pages</a>
+                <div class="content3 abc">
+                    <a class="#">Department</a>
+                    <a class="#">Procedure</a>
+                    <a class="#">Location</a>
+                    <a class="#">Cost Calculator</a>
+                    <a class="#">FAQ</a>
+                    <a class="#">Testimonials</a>
+                    <a class="#">Pricing</a>
+                </div>
+            </li>
+            <li class="we">
+                <a href="#">News</a>
+                <div class="content4 abc">
+                    <a class="#">blog grid</a>
+                    <a class="#">blog tiles</a>
+                    <a class="#">blog list</a>
+                    <a class="#">Single post</a>
+                </div>
+            </li>
+            <li class="we">
+            <a href="#">Portfolio</a>
+            <div class="content5 abc">
+                <a class="#">portfolio grid</a>
+                <a class="#">portfolio tiles</a>
+                <a class="#">single project</a>
+            </div>
+        </li>
+            <li class="we">
+                <a href="#">Shop</a>
+                <div class="content6 abc">
+                    <a href="#">products</a>
+                    <a href="#">Single product</a>
+                    <a href="#">Shop Pages</a>
+                </div>
+            </li>
+        </ul>
+        </div>
+        <div class="logo1">
+            <ul>
+                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fa-brands fa-google-plus-g"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
