@@ -1,0 +1,17 @@
+.abc{display: none;position: absolute;}
+.container{background-color: white; display: flex;justify-content: space-between;}
+.logo{padding: 15px 55px;}
+.logo1{padding-right: 50px;}
+a{text-decoration: none; padding: 3px 5px; margin: 3px 5px;}
+.menu ul li{display: inline-block;padding: 25px;}
+.logo1 ul li{display: inline-block;padding: 25px 10px;}
+a:hover{color: red;}
+.we:hover .abc{
+    display: block;
+}
+li{
+    display: block;
+}
+.abc a{display: block;
+position: relative;;}
+
